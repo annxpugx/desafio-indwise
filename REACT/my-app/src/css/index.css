@@ -1,0 +1,8 @@
+button {
+    margin: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.App .flip {
+    color: red;
+}
