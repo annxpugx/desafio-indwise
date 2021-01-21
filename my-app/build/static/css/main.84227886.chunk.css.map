@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/css/index.css"],"names":[],"mappings":"AAAA,OACI,UAAW,CACX,yCACJ,CAEA,WACI,SACJ","file":"main.84227886.chunk.css","sourcesContent":["button {\n    margin: 1em;\n    font-family: 'Times New Roman', Times, serif;\n}\n\n.App .flip {\n    color: red;\n}"]}
